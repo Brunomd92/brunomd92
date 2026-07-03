@@ -2,7 +2,7 @@
 
 Trabalho na fronteira entre contabilidade e dados. Comecei minha trajetória em ciências contábeis, mas ao longo do caminho descobri que meu maior interesse não é fechar números, é entender o que eles estão dizendo sobre o negócio.
 
-Sou analista contábil sênior no Sicredi, onde criei o papel de **Agente de Dados** dentro da área, uma posição que não existia antes e que hoje é referência interna em analytics aplicado ao contábil. Meu foco principal é crédito, especialmente origem e portfólio de crédito consignado.
+Sou analista contábil sênior no Sicredi, onde criei o papel de **Agente de Dados** dentro da área, uma posição que não existia antes e que hoje é referência interna em analytics aplicado ao contábil. Meu foco principal é resolver problema de negócios com inteligência de negócios..
 
 ## O que eu faço
 
