@@ -14,7 +14,7 @@ Sou analista contábil sênior no Sicredi, onde criei o papel de **Agente de Dad
 
 ## O que estou aprendendo agora
 
-Estou me aprofundando em Modelagem Estatística e Preditiva, especialmente testes de hipótese e A/B testing, pra fortalecer a base analítica que já tenho em SQL e Power BI. O objetivo é caminhar cada vez mais em direção à ciência de dados aplicada a négoico.
+Estou me aprofundando em Modelagem Estatística e Preditiva, pra fortalecer a base analítica que já tenho em SQL e Power BI. O objetivo é caminhar cada vez mais em direção à ciência de dados aplicada a négoico.
 
 ## Projetos em destaque
 
