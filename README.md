@@ -21,7 +21,7 @@ Estou me aprofundando em Modelagem Estatística e Preditiva, pra fortalecer a ba
 | Projeto | Descrição |
 |---|---|
 | 🔗 [Reporte automatizado de pendências contábeis](https://github.com/Brunomd92/case-reporte-pendencias-credito) | Pipeline SQL → Python → HTML que reduziu em ~70% as pendências acima de 30 dias de um produto de crédito de alto volume |
-
+| 🔗 [Análise de carteira e concessões de crédito](https://github.com/Brunomd92/credito_concessao) | Modelagem em camadas (DuckDB + Power BI) sobre dados do Doc3040/Bacen, com análise de safra, indicadores de inadimplência (ever30/60/90) e comprometimento de renda para apoiar política de crédito |
 
 ## Stack
 
