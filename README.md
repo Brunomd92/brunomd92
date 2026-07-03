@@ -20,7 +20,7 @@ Estou me aprofundando em Python e estatística aplicada, especialmente testes de
 | Projeto | Descrição |
 |---|---|
 | 🔗 [Nome do projeto] | Breve descrição do que ele resolve |
-| 🔗 [Nome do projeto] | Breve descrição do que ele resolve |
+
 
 ## Stack
 
@@ -37,5 +37,5 @@ Estou me aprofundando em Python e estatística aplicada, especialmente testes de
 
 ## Vamos conversar
 
-📎 [LinkedIn](#)
+📎 [LinkedIn](https://www.linkedin.com/in/brunomdornelles/)
 
