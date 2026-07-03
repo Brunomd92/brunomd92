@@ -10,10 +10,11 @@ Sou analista contábil sênior no Sicredi, onde criei o papel de **Agente de Dad
 - Trabalho de ponta a ponta: da regra de negócio até o reporte executivo pra diretoria
 - Já treinei mais de 100 colegas em SQL, Databricks e Power BI
 - Ajudei a reduzir em 80% as pendências de conciliação no crédito consignado
+- Construi soluções para processos contábeis que ecomizaram em média 4h por processo
 
 ## O que estou aprendendo agora
 
-Estou me aprofundando em Python e estatística aplicada, especialmente testes de hipótese e A/B testing, pra fortalecer a base analítica que já tenho em SQL e Power BI. O objetivo é caminhar cada vez mais em direção à ciência de dados, sempre com o crédito como domínio principal.
+Estou me aprofundando em Modelagem Estatística e Preditiva, especialmente testes de hipótese e A/B testing, pra fortalecer a base analítica que já tenho em SQL e Power BI. O objetivo é caminhar cada vez mais em direção à ciência de dados aplicada a négoico.
 
 ## Projetos em destaque
 
