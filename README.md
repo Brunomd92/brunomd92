@@ -38,5 +38,5 @@ Estou me aprofundando em Modelagem Estatística e Preditiva, especialmente teste
 
 ## Vamos conversar
 
-📎 [LinkedIn](https://www.linkedin.com/in/brunomdornelles/)
+📎 [LinkedIn - Bruno Medeiros Dornelles](https://www.linkedin.com/in/brunomdornelles/)
 
