@@ -20,7 +20,7 @@ Estou me aprofundando em Modelagem Estatística e Preditiva, especialmente teste
 
 | Projeto | Descrição |
 |---|---|
-| 🔗 [Nome do projeto] | Breve descrição do que ele resolve |
+| 🔗 [Reporte automatizado de pendências contábeis](https://github.com/Brunomd92/case-reporte-pendencias-credito) | Pipeline SQL → Python → HTML que reduziu em ~70% as pendências acima de 30 dias de um produto de crédito de alto volume |
 
 
 ## Stack
